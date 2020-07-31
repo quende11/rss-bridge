@@ -12,7 +12,7 @@
 ;
 ; true  = enabled
 ; false = disabled (default)
-enable = true
+enable = false
 
 ; The username for authentication. Insert this name when prompted for login.
 username = "quende11"
